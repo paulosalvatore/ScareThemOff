@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: 77121a3a7fcf8974381bf4b63764db8e
+timeCreated: 1474562574
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Feliz
+    21300002: Sorridente
+    21300004: MuitoSorridente
+    21300006: ChorandoDeRir
+    21300008: MuitoFeliz
+    21300010: ExtremamenteFeliz
+    21300012: Emoticons_6
+    21300014: Emoticons_7
+    21300016: Emoticons_8
+    21300018: Emoticons_9
+    21300020: Emoticons_10
+    21300022: Feliz
+    21300024: Emoticons_12
+    21300026: Apaixonado
+    21300028: Emoticons_14
+    21300030: Emoticons_15
+    21300032: Emoticons_16
+    21300034: Emoticons_17
+    21300036: Emoticons_18
+    21300038: Emoticons_19
+    21300040: Emoticons_20
+    21300042: Dinheiro
+    21300044: Emoticons_22
+    21300046: Emoticons_23
+    21300048: Emoticons_24
+    21300050: Emoticons_25
+    21300052: Emoticons_26
+    21300054: Entediado
+    21300056: Pensativo
+    21300058: Emoticons_29
+    21300060: Emoticons_30
+    21300062: Assustado2
+    21300064: Emoticons_32
+    21300066: Emoticons_33
+    21300068: Emoticons_34
+    21300070: Emoticons_35
+    21300072: Emoticons_36
+    21300074: Emoticons_37
+    21300076: Emoticons_38
+    21300078: Bravo
+    21300080: Admirado
+    21300082: Assustado
+    21300084: Medo
+    21300086: MedoChorando
+    21300088: PoucoAssustado
+    21300090: Assustado
+    21300092: MuitoAssustado
+    21300094: Emoticons_47
+    21300096: Chorando
+    21300098: Morto1
+    21300100: Morto2
+    21300102: Emoticons_51
+    21300104: Emoticons_52
+    21300106: Emoticons_53
+    21300108: Emoticons_54
+    21300110: Dormindo
+    21300112: Emoticons_56
+    21300114: Emoticons_57
+    21300116: Emoticons_58
+    21300118: Emoticons_59
+    21300120: Emoticons_60
+    21300122: Emoticons_61
+    21300124: Emoticons_62
+    21300126: Emoticons_63
+    21300128: Emoticons_64
+    21300130: Emoticons_65
+    21300132: Emoticons_66
+    21300134: Emoticons_67
+    21300136: Emoticons_68
+    21300138: Emoticons_69
+    21300140: Emoticons_70
+    21300142: Emoticons_71
+    21300144: Emoticons_72
+    21300146: Emoticons_73
+    21300148: Emoticons_74
+    21300150: Emoticons_75
+    21300152: Emoticons_76
+    21300154: Emoticons_77
+    21300156: Emoticons_78
+    21300158: Emoticons_79
+    21300160: Emoticons_80
+    21300162: Emoticons_81
+    21300164: Emoticons_82
+    21300166: Emoticons_83
+    21300168: FelizSorrindo
+    21300170: Aterroziado
+    21300172: Assustado1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FelizSorrindo
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 586.2857
+        width: 83.833336
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sorridente
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 586.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MuitoSorridente
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 586.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChorandoDeRir
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 586.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MuitoFeliz
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 586.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExtremamenteFeliz
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 586.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 586.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 586.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 586.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 586.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 586.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Feliz
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 586.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 491.2857
+        width: 83.833336
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Apaixonado
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 491.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinheiro
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 491
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 491.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entediado
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 396.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pensativo
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 396.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 396.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assustado2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 396.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 396.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_33
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 396.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_35
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 396.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 301.2857
+        width: 83.833336
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 301.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 301.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bravo
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 301.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Admirado
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 301.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aterroziado
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 301.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Medo
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MedoChorando
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PoucoAssustado
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assustado1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MuitoAssustado
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_47
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 301.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chorando
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206.2857
+        width: 83.833336
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Morto1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 206.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Morto2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 206.2857
+        width: 83.83334
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_52
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_54
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dormindo
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 206.2857
+        width: 83.83331
+        height: 83.714294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_56
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_57
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_58
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 206.2857
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_66
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_67
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_69
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_71
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 111.28571
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_73
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_79
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_80
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_81
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emoticons_83
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 16.285713
+        width: 83.833336
+        height: 83.71429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: e1f8021b3b694cc4b9cca829a6edc0ab
+timeCreated: 1474393515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turista Frente - Idle
+    21300002: Turista Frente - Foto1
+    21300004: Turista Frente - Foto2
+    21300006: Turista Frente - Assustado
+    21300008: Turista Frente - Andando1
+    21300010: Turista Frente - Andando2
+    21300012: Turista Costas - Idle
+    21300014: Turista Costas - Foto1
+    21300016: Turista Costas - Foto2
+    21300018: Turista Costas - Assustado
+    21300020: Turista Costas - Andando1
+    21300022: Turista Costas - Andando2
+    21300024: Turista - Morto
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turista Frente - Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Frente - Foto1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Frente - Foto2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Frente - Assustado
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Frente - Andando1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Frente - Andando2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 257
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Foto1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Foto2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Assustado
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Andando1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista Costas - Andando2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 54
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turista - Morto
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

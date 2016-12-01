@@ -1,0 +1,24 @@
+--- v1.3.0 ---
+
+- Added brush autotiling groups and autotiling modes: self, other and group
+- Added option create a tile view from brush selection to create tile prefabs
+- Added Tilemap Groups to manage several tilemap like if they were layers
+- Improved collider 2D generation to use less colliders
+- Added support for Polygon colliders in addition to Edge for tilemaps with 2D colliders
+- Display all selected tiles in tile collider properties and drawing a tile background to see the shape of tiles with transparency
+- Changed IBrush interface to support tiles with flags
+- Added the option to select a brush to draw a tile of another brush
+- Added the option to change brush tile flags (flip vertically and horizontally and 90º rotation)
+- Right click over a tile in the palette will display the tile property window
+- Added Is Trigger property to tilemap colliders
+- Added Refresh button in tilemap toolbar and shortcut key F5 for the same operation
+- Fixed carpet interior corners autotiling
+- Fixed refresh tilemap properly when changing cell size
+
+--- v1.2.2 ---
+
+- Fixed tile colliders when the tile is flipped and/or rotated
+- Fixed changing of tilemap material
+- Fixed double click issue when painting (double click is a fill action) and in the brush palette ( double click is for selecting the brush asset )
+- Fixed Carpet Brush autotiling
+- Tile collider type is now selected using a selection grid instead of a popup
